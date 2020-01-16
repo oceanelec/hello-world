@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi, David, this is John from Ocean
+We would love to work with you for the Aesculap Clipper Project here!
+
+# Hello Aesculap
